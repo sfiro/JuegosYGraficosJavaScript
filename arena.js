@@ -1,4 +1,5 @@
 //programa que simula la caida de arena en una pantalla
+//el color de la arena va cambiando conforme se va llenando la pantalla
 
 function make2dArray(cols,rows){
     //crea un array de 2 dimensiones e inicializa cada elemento en 0
