@@ -9,7 +9,8 @@ Las funciones son simples y pueden ser modificadas facilmente
 
 AGREGAR IMAGEN !!!!
 
-![imagen esquemático](caida arena/arena.png)
+![imagen esquemático](caida_arena/arena.png)  
+
 
 ![imagen esquemático](snake/snake.png)
 
