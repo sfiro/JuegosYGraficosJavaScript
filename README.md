@@ -7,10 +7,15 @@ Las funciones son simples y pueden ser modificadas facilmente
  
 
 
-AGREGAR IMAGEN !!!!
+# Caida de arena
+
+sistema que simula la caida de arena de varios colores
 
 ![imagen esquemático](caida_arena/arena.png)  
 
+# Juego SNAKE
+
+típico juego SNAKE 
 
 ![imagen esquemático](snake/snake.png)
 
